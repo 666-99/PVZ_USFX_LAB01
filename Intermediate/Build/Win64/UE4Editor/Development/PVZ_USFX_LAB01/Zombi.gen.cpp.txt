@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Definitions.PVZ_USFX_LAB01.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Source\PVZ_USFX_LAB01/Zombi.h
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\Zombi.generated.h

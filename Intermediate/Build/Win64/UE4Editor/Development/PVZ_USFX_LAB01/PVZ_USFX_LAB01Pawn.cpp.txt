@@ -1,0 +1,24 @@
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB01\Definitions.PVZ_USFX_LAB01.h
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\PVZ_USFX_LAB01Pawn.generated.h
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Source\PVZ_USFX_LAB01\PVZ_USFX_LAB01Projectile.h
+C:\Users\PC\Documents\Unreal Projects\PVZ_USFX_LAB01\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB01\PVZ_USFX_LAB01Projectile.generated.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\EPIC\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\EPIC\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
